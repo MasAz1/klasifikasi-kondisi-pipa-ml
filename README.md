@@ -19,7 +19,7 @@ Fitur yang digunakan dalam penelitian ini adalah:
 
 - Pressure
 - Flow_Rate
-- - Leakage_Flag
+- Leakage_Flag
 
 Target klasifikasi:
 
